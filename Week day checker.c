@@ -1,3 +1,5 @@
+// This simple C program tells the week day of a given date 
+
 # include <stdio.h>
 # include <stdlib.h>
 # include <string.h>
