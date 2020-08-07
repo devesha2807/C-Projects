@@ -11,7 +11,7 @@
 int main()
 {
 int i, temp, swapped;
-int howMany = 10;
+int howMany = 10; // You can change the size of array of your own choice
 int goals[howMany];
 srand(time(NULL));
 
